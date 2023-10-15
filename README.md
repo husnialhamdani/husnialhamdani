@@ -13,6 +13,8 @@ I work as Site Reliability Engineer
   <span align="center"><a href="">Knative Contributor</a></span></li>
   <li><img align="center" src="https://github.com/cortexproject/cortex/blob/master/images/logo.png" width="25"/>
   <span align="center"><a href="">Cortex Contributor</a></span></li>
+  <li><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-elasticsearch-226094.png" width="25"/>
+  <span align="center"><a href="https://github.com/xco-sk/eck-custom-resources">ECK Custom Resource Contributor</a></span></li>
   <li><img align="center" src="https://github.com/kyverno/artwork/blob/main/Kyverno.svg" height="25" width="25"/>
   <span align="center"><a href="">Graduated LFX Mentorship 2022 @Kyverno</a></span></li>
 </ul>
