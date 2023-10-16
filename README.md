@@ -5,6 +5,12 @@ I work as Site Reliability Engineer
 
 <h3 align="left">About me:</h3>
 <ul align="left">
+  <li><img align="center" src="https://github.com/cncf/artwork/blob/master/other/kcna/color/kcna_color.png" height="25" width="25"/>
+  <span align="center"><a href="">Kubernetes & Cloud-Native Associate (KCNA-BETA)</a></span></li>
+  <li><img align="center" src="https://github.com/cncf/artwork/blob/master/other/cka/color/kubernetes-cka-color.png" height="25" width="25"/>
+  <span align="center"><a href="">Certified Kubernetes Administrator (CKA)</a></span></li>
+  <li><img align="center" src="https://github.com/cncf/artwork/blob/master/other/kss/color/kubernetes-security-specialist-color.png" height="25" width="25"/>
+  <span align="center"><a href="">Certified Kubernetes Security Specialist (CKS)</a></span></li>
   <!--<li><img align="center" src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-ambassador-stacked-color.svg" height="25" width="25"/>
   <span align="center"><a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a></span></li>-->
   <li><img align="center" src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" height="25" width="25"/>
@@ -14,7 +20,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://github.com/cortexproject/cortex/blob/master/images/logo.png" width="25"/>
   <span align="center"><a href="">Cortex Contributor</a></span></li>
   <li><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-elasticsearch-226094.png" width="25"/>
-  <span align="center"><a href="https://github.com/xco-sk/eck-custom-resources">ECK Custom Resource Contributor</a></span></li>
+  <span align="center"><a href="https://github.com/xco-sk/eck-custom-resources">ECK Custom Resource Operator Contributor</a></span></li>
   <li><img align="center" src="https://github.com/kyverno/artwork/blob/main/Kyverno.svg" height="25" width="25"/>
   <span align="center"><a href="">Graduated LFX Mentorship 2022 @Kyverno</a></span></li>
 </ul>
