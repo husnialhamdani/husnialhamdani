@@ -13,8 +13,6 @@ I work as Site Reliability Engineer
   <span align="center"><a href="">Certified Kubernetes Security Specialist (CKS)</a></span></li>
   <li><img align="center" src="https://github.com/kyverno/artwork/blob/main/Kyverno.svg" height="25" width="25"/>
   <span align="center"><a href="https://lfx.linuxfoundation.org/tools/mentorship/">Graduated LFX Mentorship 2022 @Kyverno</a></span></li>
-  <!--<li><img align="center" src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-ambassador-stacked-color.svg" height="25" width="25"/>
-  <span align="center"><a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a></span></li>-->
   <li><img align="center" src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" height="25" width="25"/>
   <span align="center"><a href="https://github.com/fluent">Fluentd Contributor</a></span></li>
   <li><img align="center" src="https://github.com/knative/community/blob/main/icons/logo.svg" height="25" width="25"/>
@@ -25,8 +23,8 @@ I work as Site Reliability Engineer
   <span align="center"><a href="https://github.com/xco-sk/eck-custom-resources">ECK CR Contributor</a></span></li>
   <li><img align="center" src="https://github.com/cncf/artwork/blob/master/projects/istio/icon/color/istio-icon-color.png" width="25"/>
   <span align="center"><a href="https://github.com/istio">Istio Contributor</a></span></li>
-<!--   <li><img align="center" src="https://github.com/kedacore/governance/blob/main/logos/keda-icon-colour.png" width="25"/>
-  <span align="center"><a href="https://github.com/kedacore">KEDA Contributor</a></span></li> -->
+  <li><img align="center" src="https://github.com/kedacore/governance/blob/main/logos/keda-icon-colour.png" width="25"/>
+  <span align="center"><a href="https://github.com/kedacore">KEDA Contributor</a></span></li>
 </ul>
 <br/>
 
