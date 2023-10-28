@@ -22,10 +22,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-elasticsearch-226094.png" width="25"/>
   <span align="center"><a href="https://github.com/xco-sk/eck-custom-resources">ECK CR Contributor</a></span></li>
   <li><img align="center" src="https://github.com/cncf/artwork/blob/master/projects/istio/icon/color/istio-icon-color.png" width="25"/>
-  <span align="center"><a href="https://github.com/istio">Istio Contributor</a></span></li>
-  <li><img align="center" src="https://github.com/kedacore/governance/blob/main/logos/keda-icon-colour.png" width="25"/>
-  <span align="center"><a href="https://github.com/kedacore">KEDA Contributor</a></span></li>
-</ul>
+  <span align="center"><a href="https://github.com/istio">Istio Contributor</a></span></li> 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnialhamdani&label=Profile%20views&color=0e75b6&style=flat" alt="husnialhamdani" /> </p>
