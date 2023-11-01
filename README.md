@@ -24,7 +24,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://github.com/cncf/artwork/blob/master/projects/istio/icon/color/istio-icon-color.png" width="25"/>
   <span align="center"><a href="https://github.com/istio">Istio Contributor</a></span></li> 
   <li><img align="center" src="https://avatars.githubusercontent.com/u/21054566?s=280&v=4" width="25"/>
-  <span align="center"><a href="https://github.com/istio">Cilium Contributor</a></span></li> 
+  <span align="center"><a href="https://github.com/cilium">Cilium Contributor</a></span></li> 
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnialhamdani&label=Profile%20views&color=0e75b6&style=flat" alt="husnialhamdani" /> </p>
