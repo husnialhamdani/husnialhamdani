@@ -28,7 +28,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://keda.sh/img/logos/keda-icon-color.png" height="25" width="25"/>
   <span align="center"><a href="https://github.com/kedacore">KEDA Contributor</a></span></li>
   <li><img align="center" src="https://github.com/cncf/artwork/blob/4f0c841c4c8ca2a2d6159b9cac41e26a4c36b007/projects/opentelemetry/icon/color/opentelemetry-icon-color.png" height="25" width="25"/>
-  <span align="center"><a href="https://github.com/kedacore">OpenTelemetry Contributor</a></span></li>
+  <span align="center"><a href="https://github.com/open-telemetry/">OpenTelemetry Contributor</a></span></li>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnialhamdani&label=Profile%20views&color=0e75b6&style=flat" alt="husnialhamdani" /> </p>
