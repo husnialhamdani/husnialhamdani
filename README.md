@@ -12,7 +12,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://github.com/cncf/artwork/blob/4f0c841c4c8ca2a2d6159b9cac41e26a4c36b007/other/kss/color/kubernetes-security-specialist-color.png" height="25" width="25"/>
   <span align="center"><a href="">Certified Kubernetes Security Specialist (CKS)</a></span></li>
   <li><img align="center" src="https://github.com/kyverno/artwork/blob/main/Kyverno.svg" height="25" width="25"/>
-  <span align="center"><a href="https://lfx.linuxfoundation.org/tools/mentorship/">Graduated LFX Mentorship 2022 @Kyverno</a></span></li>
+  <span align="center"><a href="https://lfx.linuxfoundation.org/tools/mentorship/">LFX Mentorship 2022 @Kyverno</a></span></li>
   <li><img align="center" src="https://github.com/fluent/fluentd-docs-gitbook/blob/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" height="25" width="25"/>
   <span align="center"><a href="https://github.com/fluent">Fluentd Contributor</a></span></li>
   <li><img align="center" src="https://github.com/knative/community/blob/main/icons/logo.svg" height="25" width="25"/>
