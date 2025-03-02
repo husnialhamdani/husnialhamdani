@@ -8,7 +8,7 @@ I work as Site Reliability Engineer
   <li><img align="center" src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-ambassador-stacked-color.svg" height="25" width="25"/>
   <span align="center"><a href="https://www.credly.com/badges/da85f478-42a7-4b73-bfcb-6487eed58255">CNCF Ambassador</a></span></li>  
   <li><img align="center" src="https://github.com/cncf/artwork/blob/4f0c841c4c8ca2a2d6159b9cac41e26a4c36b007/other/kcna/color/kubernetes-kcna-color.png" height="25" width="25"/>
-  <span align="center"><a href="">Kubernetes & Cloud-Native Associate (KCNA-BETA)</a></span></li>
+  <span align="center"><a href="">Kubernetes & Cloud-Native Associate (KCNA BETA)</a></span></li>
   <li><img align="center" src="https://github.com/cncf/artwork/blob/4f0c841c4c8ca2a2d6159b9cac41e26a4c36b007/other/cka/color/kubernetes-cka-color.png" height="25" width="25"/>
   <span align="center"><a href="">Certified Kubernetes Administrator (CKA)</a></span></li>
   <li><img align="center" src="https://github.com/cncf/artwork/blob/4f0c841c4c8ca2a2d6159b9cac41e26a4c36b007/other/kss/color/kubernetes-security-specialist-color.png" height="25" width="25"/>
